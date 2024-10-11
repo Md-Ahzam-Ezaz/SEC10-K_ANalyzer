@@ -1,4 +1,4 @@
-This Project is done for submission to **Financial Services Innovation Lab, Georgia Tech Programming Task for Summer Research**.
+This Project is done to **Analyze SEC 10-K filings for growth summary of various firms, using the firm ticker**.
 I have primarily used Python and its related tech-stack/libs for achieving the frontend and backend Developement work. I have taken certain degree of liberty in coding up the solution to the open-ended question.
 
 
